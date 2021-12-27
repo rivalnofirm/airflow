@@ -1,1 +1,0 @@
-{"virtualbox":{"/opt/airflow":{"guestpath":"/opt/airflow","hostpath":"/home/rivalno/Documents","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/rivalno/Documents/python/airflow","disabled":false,"__vagrantfile":true}}}
